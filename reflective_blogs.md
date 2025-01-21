@@ -2,14 +2,18 @@
 
 # Table of Contents 
 *These blog posts will be contributions from assignmnets in my tech comm course from the University of Central Florida: ENC4265.*
-1. [Wayback Analysis](#wayback-analysis)
+1. [Reflective Blog 1: Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
    
 # Wayback Analysis
 
 ## Assignment Rationale 
+Analyze an early website using the [Wayback Machine](https://web.archive.org/) Search for an old version of your favorite digital source of news, entertainment, shopping, etc. Make note of its layout and things that you find surprising, out of the ordinary, or just plain odd.
 
+Write a short analysis of your findings, and post it.
+
+Based on your analysis, what norms do we expect websites to have? How Jarring is it to see a site that does not follow these norms? What was the experience like for you, a modern Internet user, visiting this outdated site?
 
 ---
 # Quick Start Guide
