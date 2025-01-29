@@ -64,23 +64,16 @@ In conclusion, websites have evolved significantly over the past decade or so, w
 # Quick Start Guide
 
 ## Assignment Rationale 
-This assignment will let you experiment with a generative AI tool of your choice, and will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
-
 Select a product to explain how to use it right out of the box (this is a figure of speech--your product does not have to come in a box). This can be a video game console, photo editing software, a smart watch, Instagram, an InstantPot, or anything you'd like. The key is that you are writing to a complete novice: somebody who has no idea what to do. Do not assume that your reader has any prior knowledge about any aspect of your product.
 
 **To Do**
-- Open Copilot or any other text-based generative AI tool you prefer (don't pay for it unless you happen to already have a subscription)
-- Write a prompt that asks it to generate a quick-start guide for your product of choice (copy and paste this somewhere - it is part of what you need to turn in)
-- Evaluate the output. Try to follow the steps yourself, or at least imagine following them
-- Prompt it again (and again) if needed (again saving your prompts somewhere)
-- Reflect on the process and write a short (200 words) reflection on the tool's strengths, weaknesses, and anything that you learned (or anything that surprised you)
 - Use clear, step-by-step instructions that state what to do to begin using the product
 - Use at least 3 images or screenshots that illustrate 3 different steps (decorative images of the product or its logo do not count)
 - Use easy-to-understand language so that someone who has never heard of your product could successfully complete the process 
 - Use tone of a professional tutorial: doesn't sound condescending or too informal
 
 ## Assignment
-**This assignment was done using the help of ChatGPT.*
+**This assignment was done by me but using the help of ChatGPT to edit Markdown.*
 
 ### Quick-Start Guide: How to Use ChatGPT
 
@@ -110,22 +103,6 @@ Welcome to the ChatGPT Quick-Start Guide! This guide will help you start a conve
 
 **Conclusion**  
 That's it! You’re now ready to use ChatGPT for information, writing help, coding, and more. Enjoy exploring its capabilities!  
-
-### Prompt & Output from ChatGPT
-**ChatGPT Prompt:** Good Afternoon! I am working on an assignment for a GitHub Page. I would appreciate your help with the assignment. It must be written in Markdown so I can easily apply it to my page. Can you please help me? Here are the guidelines: (This is where I inputted (copy/pasted) all the criteria from my assignment page on Canvas from my UCF webcourse ENC4265.)
-
-**ChatGPT Output:**
-
-![Screenshot 2025-01-29 at 3 25 09 PM](https://github.com/user-attachments/assets/5cfac911-fbcc-47e4-b3a7-2316a9f1c5c6)
-
-*Figure 4. ChatGPT output*
-
-### Reflection
-Using an AI tool to create my Quick-Start Guide for ChatGPT was a smooth and efficient experience. One of the biggest strengths of the AI was its ability to generate a well-structured guide quickly, following the assignment's requirements closely. The AI provided clear, numbered steps, bolded key actions, and formatted the guide professionally, which saved me a lot of time. It also helped ensure that the language remained concise and easy to understand, making the instructions accessible for a complete novice.
-
-I did not find many weaknesses in the AI-generated response. The only adjustments I made were related to formatting once I placed the guide on GitHub. Markdown formatting can be tricky, and while the AI provided a solid foundation, I had to fine-tune the code to align perfectly with GitHub Pages.
-
-One thing that surprised me was how well the AI understood technical writing principles. It structured the guide in a way that made it easy to follow and even included placeholders for images, which I hadn’t considered at first. Overall, this experience showed me how AI can be a valuable tool for drafting technical documents efficiently while still allowing room for personal refinements.
 
 ---
 # Reflective Blog 3
