@@ -3,7 +3,7 @@
 # Table of Contents 
 *These blog posts will be contributions from assignmnets in my tech comm course from the University of Central Florida: ENC4265.*
 1. [Reflective Blog 1: Wayback Analysis](#wayback-analysis)
-2. [Quick Start Guide](#quick-start-guide)
+2. [Reflective Blog 2: Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
    
 # Wayback Analysis
@@ -16,9 +16,12 @@ Write a short analysis of your findings, and post it.
 Based on your analysis, what norms do we expect websites to have? How Jarring is it to see a site that does not follow these norms? What was the experience like for you, a modern Internet user, visiting this outdated site?
 
 ## Assignment
+**This assignment was done completely by me.*
+
 For this analysis, I revisited an older version of Vogue.com to examine its layout and user experience. Vogue, a high-profile fashion and lifestyle publication, is well known for its modern, visually rich design, which has evolved over the years. However, looking at its earlier iterations reveals a very different approach to web design, one that is surprisingly simplistic and at times, jarring compared to today's expectations for smooth, dynamic websites.
 
 ![Screenshot 2025-01-21 at 2 31 57 PM](https://github.com/user-attachments/assets/30e9abd7-35e2-41a5-b8c3-599e75582d76)
+*Figure 1. Old version of Vogue.com* 
 
 **Layout and Aesthetic**
 
@@ -47,6 +50,7 @@ Based on this analysis, I’ve identified a few key norms that modern websites a
 - **Interactivity and Engagement**: Modern sites encourage users to interact with the content, whether through comments, social media sharing, or other engagement tools.
 
 ![Screenshot 2025-01-21 at 2 43 51 PM](https://github.com/user-attachments/assets/d62c7b2b-3c21-45fc-be13-5efde0a57c94)
+*Figure 2. New version of Vogue.com* 
 
 **Experience as a Modern Internet User**
 
@@ -60,25 +64,69 @@ In conclusion, websites have evolved significantly over the past decade or so, w
 # Quick Start Guide
 
 ## Assignment Rationale 
-This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
+This assignment will let you experiment with a generative AI tool of your choice, and will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
 
-## Where to Start
-Think of a product that you already know how to use. It can be a bluetooth headset, an app, a video game, a sewing machine, or anything that requires a little bit of setup to use.
+Select a product to explain how to use it right out of the box (this is a figure of speech--your product does not have to come in a box). This can be a video game console, photo editing software, a smart watch, Instagram, an InstantPot, or anything you'd like. The key is that you are writing to a complete novice: somebody who has no idea what to do. Do not assume that your reader has any prior knowledge about any aspect of your product.
 
-## Assignment Steps
-This assignment is a little more structured than others in our course, so please follow these steps:
-1. Open Copilot or any other text-based generative AI tool you prefer (don't pay for it unless you happen to already have a subscription)
-2. Write a prompt that asks it to generate a quick-start guide for your product of choice. (copy and paste this somewhere - it is part of what you need to turn in)
-3. Evaluate the output. Try to follow the steps yourself, or at least imagine following them.
-4. Prompt it again (and again) if needed (again saving your prompts somewhere).
-5. Reflect on the process and write a short (200 words) reflection on the tool's strengths, weaknesses, and anything that you learned (or anything that surprised you).
+**To Do**
+- Open Copilot or any other text-based generative AI tool you prefer (don't pay for it unless you happen to already have a subscription)
+- Write a prompt that asks it to generate a quick-start guide for your product of choice (copy and paste this somewhere - it is part of what you need to turn in)
+- Evaluate the output. Try to follow the steps yourself, or at least imagine following them
+- Prompt it again (and again) if needed (again saving your prompts somewhere)
+- Reflect on the process and write a short (200 words) reflection on the tool's strengths, weaknesses, and anything that you learned (or anything that surprised you)
+- Use clear, step-by-step instructions that state what to do to begin using the product
+- Use at least 3 images or screenshots that illustrate 3 different steps (decorative images of the product or its logo do not count)
+- Use easy-to-understand language so that someone who has never heard of your product could successfully complete the process 
+- Use tone of a professional tutorial: doesn't sound condescending or too informal
 
-## What is Due
-On your portfolio, post the following:
--The name of the tool (with the link if you have it)
--Your prompts
--The best output 
--Your reflection 
+## Assignment
+**This assignment was done using the help of ChatGPT.*
+
+### Quick-Start Guide: How to Use ChatGPT
+
+**Introduction**
+Welcome to the ChatGPT Quick-Start Guide! This guide will help you start a conversation and use ChatGPT effectively. Follow these simple steps to begin.
+
+- **Step 1: Open ChatGPT**
+    - Go to [https://chat.openai.com](https://chat.openai.com) in your web browser.  
+![Screenshot 2025-01-29 at 3 00 50 PM](https://github.com/user-attachments/assets/1491d0df-e4e8-43a9-bc13-6206caa155a6)
+*Figure 1. ChatGPT homepage*  
+
+- **Step 2: Sign In or Sign Up**  
+    - If you have an OpenAI account, click **Sign In** and enter your credentials.  
+    - If you are new, click **Sign Up** and follow the instructions to create an account.  
+![Screenshot 2025-01-29 at 3 01 40 PM](https://github.com/user-attachments/assets/e327f2e9-f87f-4f96-abbc-ec8b2f8e8cc7)
+*Figure 2. Login screen*  
+
+- **Step 3: Start a Conversation**  
+    - Type your question or request in the message box.  
+    - Press **Enter** or click the **send button** to submit your prompt.  
+![Screenshot 2025-01-29 at 3 02 54 PM](https://github.com/user-attachments/assets/772b2e6f-fd08-4a9a-8c54-105ac8816c42)
+*Figure 3. ChatGPT conversation*  
+
+- **Step 4: Review and Refine Responses**  
+    - If the response isn't what you expected, try rephrasing your question.  
+    - You can ask follow-up questions to get more details.  
+
+**Conclusion**  
+That's it! You’re now ready to use ChatGPT for information, writing help, coding, and more. Enjoy exploring its capabilities!  
+
+### Prompt & Output from ChatGPT
+**ChatGPT Prompt:** Good Afternoon! I am working on an assignment for a GitHub Page. I would appreciate your help with the assignment. It must be written in Markdown so I can easily apply it to my page. Can you please help me? Here are the guidelines: (This is where I inputted (copy/pasted) all the criteria from my assignment page on Canvas from my UCF webcourse ENC4265.)
+
+**ChatGPT Output:**
+
+![Screenshot 2025-01-29 at 3 25 09 PM](https://github.com/user-attachments/assets/5cfac911-fbcc-47e4-b3a7-2316a9f1c5c6)
+
+*Figure 4. ChatGPT output*
+
+### Reflection
+Using an AI tool to create my Quick-Start Guide for ChatGPT was a smooth and efficient experience. One of the biggest strengths of the AI was its ability to generate a well-structured guide quickly, following the assignment's requirements closely. The AI provided clear, numbered steps, bolded key actions, and formatted the guide professionally, which saved me a lot of time. It also helped ensure that the language remained concise and easy to understand, making the instructions accessible for a complete novice.
+
+I did not find many weaknesses in the AI-generated response. The only adjustments I made were related to formatting once I placed the guide on GitHub. Markdown formatting can be tricky, and while the AI provided a solid foundation, I had to fine-tune the code to align perfectly with GitHub Pages.
+
+One thing that surprised me was how well the AI understood technical writing principles. It structured the guide in a way that made it easy to follow and even included placeholders for images, which I hadn’t considered at first. Overall, this experience showed me how AI can be a valuable tool for drafting technical documents efficiently while still allowing room for personal refinements.
+
 ---
 # Reflective Blog 3
 TBD
