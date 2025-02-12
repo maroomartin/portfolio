@@ -4,7 +4,7 @@
 *These blog posts will be contributions from assignmnets in my tech comm course from the University of Central Florida: ENC4265.*
 1. [Reflective Blog 1: Wayback Analysis](#wayback-analysis)
 2. [Reflective Blog 2: Quick Start Guide](#quick-start-guide)
-3. [Reflective Blog 3](#reflective-blog-3)
+3. [Reflective Blog 3: A Reflection](#reflective-blog-3)
    
 # Wayback Analysis
 
@@ -16,7 +16,7 @@ Write a short analysis of your findings, and post it.
 Based on your analysis, what norms do we expect websites to have? How Jarring is it to see a site that does not follow these norms? What was the experience like for you, a modern Internet user, visiting this outdated site?
 
 ## Assignment
-**This assignment was done completely by me.*
+AI Statement: This assignment was done completely by me.
 
 For this analysis, I revisited an older version of Vogue.com to examine its layout and user experience. Vogue, a high-profile fashion and lifestyle publication, is well known for its modern, visually rich design, which has evolved over the years. However, looking at its earlier iterations reveals a very different approach to web design, one that is surprisingly simplistic and at times, jarring compared to today's expectations for smooth, dynamic websites.
 
@@ -73,37 +73,55 @@ Select a product to explain how to use it right out of the box (this is a figure
 - Use tone of a professional tutorial: doesn't sound condescending or too informal
 
 ## Assignment
-**This assignment was done by me but using the help of ChatGPT to edit Markdown.*
+AI Statement: This assignment was done by me but using the help of ChatGPT to edit Markdown.
 
 ### Quick-Start Guide: How to Use ChatGPT
-
-**Introduction**
-Welcome to the ChatGPT Quick-Start Guide! This guide will help you start a conversation and use ChatGPT effectively. Follow these simple steps to begin.
-
-- **Step 1: Open ChatGPT**
-    - Go to [https://chat.openai.com](https://chat.openai.com) in your web browser.  
+   
+- **Step 1: Open ChatGPT by going to [https://chat.openai.com](https://chat.openai.com) in your web browser.**  
 ![Screenshot 2025-01-29 at 3 00 50 PM](https://github.com/user-attachments/assets/1491d0df-e4e8-43a9-bc13-6206caa155a6)
-*Figure 1. ChatGPT homepage*  
-
-- **Step 2: Sign In or Sign Up**  
-    - If you have an OpenAI account, click **Sign In** and enter your credentials.  
-    - If you are new, click **Sign Up** and follow the instructions to create an account.  
+*Figure 1. ChatGPT homepage (Screenshot taken by myself)*  
+   
+- **Step 2: If you have an OpenAI account, click "Login" to enter your email adress and password.**
+   - Once logged in, skip to Step 6.   
 ![Screenshot 2025-01-29 at 3 01 40 PM](https://github.com/user-attachments/assets/e327f2e9-f87f-4f96-abbc-ec8b2f8e8cc7)
-*Figure 2. Login screen*  
+*Figure 2. Login screen (Screenshot taken by myself)*
 
-- **Step 3: Start a Conversation**  
-    - Type your question or request in the message box.  
-    - Press **Enter** or click the **send button** to submit your prompt.  
-![Screenshot 2025-01-29 at 3 02 54 PM](https://github.com/user-attachments/assets/772b2e6f-fd08-4a9a-8c54-105ac8816c42)
-*Figure 3. ChatGPT conversation*  
+- **Step 3: If you are new, enter your email address and press Continue.**
 
-- **Step 4: Review and Refine Responses**  
-    - If the response isn't what you expected, try rephrasing your question.  
-    - You can ask follow-up questions to get more details.  
+- **Step 4: Enter a strong password and press Continue.**
+![Screenshot 2025-02-12 at 1 50 28 PM](https://github.com/user-attachments/assets/6cf2178b-d7cd-41a3-90e6-63cc2c18b14c)
+*Figure 3. Sign Up screen (Screenshot taken by myself)*
 
-**Conclusion**  
-That's it! You’re now ready to use ChatGPT for information, writing help, coding, and more. Enjoy exploring its capabilities!  
+- **Step 5: Enter the verification code sent to your email and press Continue.**
+![Screenshot 2025-02-12 at 1 51 36 PM](https://github.com/user-attachments/assets/9a9c4c14-9c0e-4b01-9caa-4e2faa30240e)
+*Figure 4. Verification screen (Screenshot taken by myself)*
+
+- **Step 6: Type your question or request in the message box.**    
+![Screenshot 2025-02-12 at 1 59 16 PM](https://github.com/user-attachments/assets/8eb3dfc8-6525-4952-9762-e33f266da496)
+*Figure 5. ChatGPT request (Screenshot taken by myself)*
+
+- **Step 7: Press Enter or click the send button to submit your prompt.**
+
+- **Step 8: Review and refine your responses.**  
+    - If the response isn't what you expected, try rephrasing your question.    
+![Screenshot 2025-02-12 at 2 04 45 PM](https://github.com/user-attachments/assets/d17259a7-b304-4e07-8d7c-5c74365401a7)
+*Figure 6. ChatGPT request with refinements (Screenshot taken by myself)*
+
+- **Step 9: Ask follow up questions for clarity.**
+![Screenshot 2025-02-12 at 2 07 05 PM](https://github.com/user-attachments/assets/2eb51dcb-d813-4178-a788-112c298e9c4d)
+*Figure 7. ChatGPT follow up question (Screenshot taken by myself)*
 
 ---
 # Reflective Blog 3
-TBD
+
+## Assignment Rationale 
+Prompt F: Reflect on one of your completed Deliverables for this course. What was easy for you? What was more difficult? Why? What did completing this assignment teach you about yourself and technical communication? What would you do differently based on the instructor's feedback?
+
+## Assignment
+AI Statement: Spellcheck was used for this reflection.
+
+Completing the Quick-Start Guide for ChatGPT (Reflective Blog 2) was a valuable learning experience in technical communication. One aspect that was easy for me was using Markdown to format the guide correctly. I felt comfortable structuring the document, incorporating bolded keywords, numbering steps, and linking directly to the appropriate website. Additionally, working with an AI tool to facilitate an overview of Markdown helped streamline the process.
+
+However, some parts of the assignment were more challenging. One difficulty was ensuring that each step was broken down clearly enough for a complete novice while also ensuring there was just enough for context. My professor’s feedback pointed out that some of my steps contained multiple actions, which made them less clear. Also, I initially included an introduction, but I learned that technical writing should get straight to the steps without unnecessary content. Another challenge was making sure that my instructions were self-contained rather than directing users to follow built-in prompts. I also realized the importance of properly captioning images, including citing myself if I took the screenshots.
+
+This assignment reinforced that effective technical communication requires clarity, precision, and attention to detail. Based on the feedback, I would refine my steps further, add an example question for users, and ensure my captions and instructions provide complete guidance.
