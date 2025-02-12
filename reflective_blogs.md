@@ -120,8 +120,10 @@ Prompt F: Reflect on one of your completed Deliverables for this course. What wa
 ## Assignment
 AI Statement: Spellcheck was used for this reflection.
 
-Completing the Quick-Start Guide for ChatGPT (Reflective Blog 2) was a valuable learning experience in technical communication. One aspect that was easy for me was using Markdown to format the guide correctly. I felt comfortable structuring the document, incorporating bolded keywords, numbering steps, and linking directly to the appropriate website. Additionally, working with an AI tool to facilitate an overview of Markdown helped streamline the process.
+Completing the [Quick-Start Guide for ChatGPT](#quick-start-guide) was a valuable learning experience in technical communication. One aspect that was easy for me was using Markdown to format the guide correctly. I felt comfortable structuring the document, incorporating bolded keywords, numbering steps, and linking directly to the appropriate website. Additionally, working with an AI tool to facilitate an overview of Markdown helped streamline the process.
 
 However, some parts of the assignment were more challenging. One difficulty was ensuring that each step was broken down clearly enough for a complete novice while also ensuring there was just enough for context. My professor’s feedback pointed out that some of my steps contained multiple actions, which made them less clear. Also, I initially included an introduction, but I learned that technical writing should get straight to the steps without unnecessary content. Another challenge was making sure that my instructions were self-contained rather than directing users to follow built-in prompts. I also realized the importance of properly captioning images, including citing myself if I took the screenshots.
 
 This assignment reinforced that effective technical communication requires clarity, precision, and attention to detail. Based on the feedback, I would refine my steps further, add an example question for users, and ensure my captions and instructions provide complete guidance.
+
+**Since completing this reflective blog, my Quick-Start Guide has been updated to reflect changes based on feedback and suggestions from my professor and peers.* 
