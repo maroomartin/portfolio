@@ -105,8 +105,8 @@ AI Statement: This assignment was done by me but using the help of ChatGPT to ed
 - **Step 8: Review and refine your responses.**  
     - If the response isn't what you expected, try rephrasing your question.    
 ![Screenshot 2025-02-12 at 2 04 45 PM](https://github.com/user-attachments/assets/d17259a7-b304-4e07-8d7c-5c74365401a7)
-*Figure 6. ChatGPT request with refinements (Screenshot taken by myself)*   
-   
+*Figure 6. ChatGPT request with refinements (Screenshot taken by myself)*    
+     
 - **Step 9: Ask follow up questions for clarity.**
 ![Screenshot 2025-02-12 at 2 07 05 PM](https://github.com/user-attachments/assets/2eb51dcb-d813-4178-a788-112c298e9c4d)
 *Figure 7. ChatGPT follow up question (Screenshot taken by myself)*
