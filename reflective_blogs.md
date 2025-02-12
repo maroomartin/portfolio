@@ -78,14 +78,14 @@ AI Statement: This assignment was done by me but using the help of ChatGPT to ed
 ### Quick-Start Guide: How to Use ChatGPT
    
 - **Step 1: Open ChatGPT by going to [https://chat.openai.com](https://chat.openai.com) in your web browser.**  
-![Screenshot 2025-01-29 at 3 00 50 PM](https://github.com/user-attachments/assets/1491d0df-e4e8-43a9-bc13-6206caa155a6)
-*Figure 1. ChatGPT homepage (Screenshot taken by myself)*  
-   
+![Screenshot 2025-01-29 at 3 00 50 PM](https://github.com/user-attachments/assets/1491d0df-e4e8-43a9-bc13-6206caa155a6)  
+*Figure 1. ChatGPT homepage (Screenshot taken by myself)*   
+     
 - **Step 2: If you have an OpenAI account, click "Login" to enter your email adress and password.**
    - Once logged in, skip to Step 6.   
-![Screenshot 2025-01-29 at 3 01 40 PM](https://github.com/user-attachments/assets/e327f2e9-f87f-4f96-abbc-ec8b2f8e8cc7)
-*Figure 2. Login screen (Screenshot taken by myself)*
-
+![Screenshot 2025-01-29 at 3 01 40 PM](https://github.com/user-attachments/assets/e327f2e9-f87f-4f96-abbc-ec8b2f8e8cc7)  
+*Figure 2. Login screen (Screenshot taken by myself)*  
+  
 - **Step 3: If you are new, enter your email address and press Continue.**
 
 - **Step 4: Enter a strong password and press Continue.**
@@ -105,8 +105,8 @@ AI Statement: This assignment was done by me but using the help of ChatGPT to ed
 - **Step 8: Review and refine your responses.**  
     - If the response isn't what you expected, try rephrasing your question.    
 ![Screenshot 2025-02-12 at 2 04 45 PM](https://github.com/user-attachments/assets/d17259a7-b304-4e07-8d7c-5c74365401a7)
-*Figure 6. ChatGPT request with refinements (Screenshot taken by myself)*
-
+*Figure 6. ChatGPT request with refinements (Screenshot taken by myself)*   
+   
 - **Step 9: Ask follow up questions for clarity.**
 ![Screenshot 2025-02-12 at 2 07 05 PM](https://github.com/user-attachments/assets/2eb51dcb-d813-4178-a788-112c298e9c4d)
 *Figure 7. ChatGPT follow up question (Screenshot taken by myself)*
