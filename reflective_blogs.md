@@ -7,6 +7,7 @@
 3. [Reflective Blog 3: A Reflection](#reflective-blog-3)
 4. [Reflective Blog 4: Manual Assessment](#reflective-blog-4)
 5. [Reflective Blog 5: Chatbot Analysis](#reflective-blog-5)
+6. [Reflective Blog 6: Chatbot Reflection](#reflective-blog-6)
      
 # Wayback Analysis
 
@@ -187,3 +188,60 @@ Overall, Duolingo’s chatbot is a valuable tool for language learners seeking s
   
 ---
 # Reflective Blog 6
+
+## Assignment Rationale
+Prompt R: After you have completed the [Chatbot](https://maroomartin.github.io/portfolio/chatbot.html) assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+  
+## Assignment
+AI Statement: I used ChatGPT-4o to organize, outline, and edit my content.
+
+### Reflection on Creating the Tread Lightly! Chatbot with Chatling
+
+Creating the Tread Lightly! Chatbot using Chatling was an insightful experience that highlighted both the strengths and limitations of AI in content development. As I navigated through this process, I found that AI played a crucial role in streamlining the chatbot’s structure, generating concise information, and maintaining a user-friendly tone. However, I also encountered areas where AI required re-prompting, modifications, and additional oversight.
+
+**What AI Does Well**
+
+AI excels at structuring information efficiently and providing a solid foundation for chatbot interactions. In my case, I used ChatgPT-4o to quickly generated an outline for the chatbot’s purpose, personality, and key functions. It also helped make the conversation flow logical and engaging, ensuring users could navigate the chatbot seamlessly. Additionally, AI helped create consistent language and tone, making the chatbot feel approachable and informative.
+
+Another strength of AI is its ability to summarize large amounts of information into digestible responses. This was particularly useful when integrating Tread Lightly!’s T.R.E.A.D. principles, as AI could break them down into concise, actionable tips for users. All I needed to do was input the knowledge base and it did the rest. 
+
+**What AI Does Not Do Well**
+
+Despite its efficiency, AI has limitations in content accuracy and context-specific knowledge. While it generated relevant responses, I had to verify the accuracy of off-road ethics and conservation principles against official sources like Tread Lightly! and the Bureau of Land Management (BLM). AI also struggled with fact-checking and nuanced details, occasionally oversimplifying complex topics or missing key aspects of responsible off-roading. I feel like this is a trainable issue, though, as providing more input and instructional prompts to AI can help mitigate some of the errors.
+
+Another challenge was navigating ambiguous user inputs. AI-generated chatbots often rely on pre-programmed paths, which means they may not handle unexpected or vague questions effectively. I had to adjust the chatbot’s logic to ensure users weren’t left without a response if they asked something outside the scope of Tread Lightly!’s principles.
+
+**What I Had to Modify**
+
+Throughout the development process, I had to re-prompt AI many times to refine responses and structure conversations better. Some key modifications included:
+
+- Clarifying vague AI responses by making the information more specific to Tread Lightly! rather than generic outdoor ethics.
+
+- Rewriting chatbot prompts to ensure they were engaging and user-friendly.
+
+- Adjusting AI-generated explanations to align with official guidelines from Tread Lightly! and environmental agencies.
+
+- Reducing unnecessary details to keep responses concise and relevant for chatbot users.
+
+**Understanding AI’s Training Data**
+
+After starting this project, it became obvious that AI models are trained on large datasets sourced from books, articles, websites, and public domain materials. This means the AI has access to general environmental and ethical outdoor practices, but it does not always have direct access to specific, up-to-date regulations from specialized organizations like Tread Lightly! or BLM unless those sources are publicly available and provided to the AI chatbot for usage. 
+
+Additionally, I learned that AI’s training data tends to favor widely available and mainstream information, which means certain niche topics—such as OHV-specific land use regulations—may be underrepresented or oversimplified.
+
+**The Future of AI in This Field**
+
+As AI technology continues to evolve, I believe we will see significant improvements in:
+
+- More context-aware chatbots that can access real-time data and adapt to new regulations or environmental policies.
+
+- Better user intent recognition, allowing AI to handle more nuanced or unexpected user questions effectively.
+
+- Integration with official databases, enabling chatbots to pull information directly from organizations like Tread Lightly!, BLM, or NPS for up-to-date and accurate responses.
+
+- AI-powered personalization, where chatbots can adapt recommendations based on individual user preferences and previous interactions.
+
+Overall, AI is a powerful tool for content generation and automation, but it still requires human oversight, verification, and ethical considerations to ensure accuracy and reliability. My experience with Chatling reinforced the importance of using AI as an assistant rather than a replacement when creating informational tools like this chatbot.
+
+---
+# Reflective Blog 7
