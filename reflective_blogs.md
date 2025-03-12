@@ -190,14 +190,14 @@ Overall, Duolingo’s chatbot is a valuable tool for language learners seeking s
 # Reflective Blog 6
 
 ## Assignment Rationale
-Prompt R: After you have completed the [Chatbot](https://maroomartin.github.io/portfolio/chatbot.html) assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+Prompt R: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
   
 ## Assignment
 AI Statement: I used ChatGPT-4o to organize, outline, and edit my content.
 
 ### Reflection on Creating the Tread Lightly! Chatbot with Chatling
 
-Creating the Tread Lightly! Chatbot using Chatling was an insightful experience that highlighted both the strengths and limitations of AI in content development. As I navigated through this process, I found that AI played a crucial role in streamlining the chatbot’s structure, generating concise information, and maintaining a user-friendly tone. However, I also encountered areas where AI required re-prompting, modifications, and additional oversight.
+Creating the [Tread Lightly! Chatbot](https://maroomartin.github.io/portfolio/chatbot.html) using Chatling was an insightful experience that highlighted both the strengths and limitations of AI in content development. As I navigated through this process, I found that AI played a crucial role in streamlining the chatbot’s structure, generating concise information, and maintaining a user-friendly tone. However, I also encountered areas where AI required re-prompting, modifications, and additional oversight.
 
 **What AI Does Well**
 
