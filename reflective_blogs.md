@@ -254,7 +254,7 @@ Prompt Q: Upload your resume (without your address, phone number, and email) to 
 AI Statement: I used ChatGPT-4o to analyze and revise my resume. I used Spell Check for my reflection post. 
   
 ### Resume Revision Reflection  
-After submitting my resume to ChatGPT for feedback, I received a detailed and tailored revision that helped me present my experience in a more professional, industry-specific way. The AI suggested formatting updates, clarified my job titles and responsibilities, and restructured the content to emphasize transferable skills relevant to my ideal career paths, which include technical writing, content strategy, and program coordination.
+After submitting my [resume](https://github.com/user-attachments/files/19476698/Website.Resume-Mariah.Martin.pdf) to ChatGPT for feedback, I received a detailed and tailored revision that helped me present my experience in a more professional, industry-specific way. The AI suggested formatting updates, clarified my job titles and responsibilities, and restructured the content to emphasize transferable skills relevant to my ideal career paths, which include technical writing, content strategy, and program coordination.
 
 The most impactful changes included:
 
