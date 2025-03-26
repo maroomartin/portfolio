@@ -6,4 +6,4 @@
 [![Watch the video](https://img.youtube.com/vi/KieVWwu4y9Y/maxresdefault.jpg)](https://youtu.be/KieVWwu4y9Y)
 
 ### [Procedure Video - How to Air Up & Down Using the EPIC Kraken Tire Inflation System for Jeep](https://youtu.be/KieVWwu4y9Y)
-
+NOTE: All tools and equipment used to create and edit the video are displayed in the description of the YouTube video linked above. 
