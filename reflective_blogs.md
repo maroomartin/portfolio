@@ -4,11 +4,12 @@
 *These blog posts will be contributions from assignmnets in my tech comm course from the University of Central Florida: ENC4265.*
 1. [Reflective Blog 1: Wayback Analysis](#wayback-analysis)
 2. [Reflective Blog 2: Quick Start Guide](#quick-start-guide)
-3. [Reflective Blog 3: A Reflection](#reflective-blog-3)
+3. [Reflective Blog 3: A Course Reflection](#reflective-blog-3)
 4. [Reflective Blog 4: Manual Assessment](#reflective-blog-4)
 5. [Reflective Blog 5: Chatbot Analysis](#reflective-blog-5)
 6. [Reflective Blog 6: Chatbot Reflection](#reflective-blog-6)
-     
+7. [Reflective Blog 7: Resume Revision Reflection](#reflective-blog-6)
+       
 # Wayback Analysis
 
 ## Assignment Rationale 
@@ -244,4 +245,27 @@ As AI technology continues to evolve, I believe we will see significant improvem
 Overall, AI is a powerful tool for content generation and automation, but it still requires human oversight, verification, and ethical considerations to ensure accuracy and reliability. My experience with Chatling reinforced the importance of using AI as an assistant rather than a replacement when creating informational tools like this chatbot.
 
 ---
-# Reflective Blog 7
+# Reflective Blog 7  
+  
+## Assignment Rationale
+Prompt Q: Upload your resume (without your address, phone number, and email) to a generative AI tool of your choice (I suggest trying one in Boodlebox). Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field. Post: A summary of the suggested changes and a reflection. What did it do? What did you learn? 
+
+## Assignment
+AI Statement: I used ChatGPT-4o to analyze and revise my resume. I used Spell Check for my reflection post. 
+  
+### Resume Revision Reflection  
+After submitting my resume to ChatGPT for feedback, I received a detailed and tailored revision that helped me present my experience in a more professional, industry-specific way. The AI suggested formatting updates, clarified my job titles and responsibilities, and restructured the content to emphasize transferable skills relevant to my ideal career paths, which include technical writing, content strategy, and program coordination.
+
+The most impactful changes included:
+
+- A clear professional summary that highlights my strengths and career goals.
+
+- Grouping my skills under core competencies to make them easier to scan for hiring managers.
+
+- Reframing my stay-at-home parenting and entrepreneurship roles to emphasize leadership, communication, project management, and adaptability.
+
+- Adding a Project Highlights section to showcase relevant academic and personal work.
+
+These changes made my resume feel not only more cohesive and polished but also more strategically positioned for the roles I want to pursue. The process helped me realize that my varied experiences, such as parenting, entrepreneurship, public health, and technical writing, can be woven together into a strong professional narrative when presented clearly and confidently.
+
+What I learned is that how I frame my experience matters just as much as the experience itself. I now understand the importance of tailoring my resume toward specific goals and emphasizing impact rather than simply listing tasks. This exercise boosted both my resume quality and my confidence moving forward in my career.
