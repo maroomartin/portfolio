@@ -8,7 +8,7 @@
 4. [Reflective Blog 4: Manual Assessment](#reflective-blog-4)
 5. [Reflective Blog 5: Chatbot Analysis](#reflective-blog-5)
 6. [Reflective Blog 6: Chatbot Reflection](#reflective-blog-6)
-7. [Reflective Blog 7: Resume Revision Reflection](#reflective-blog-6)
+7. [Reflective Blog 7: Resume Revision Reflection](#reflective-blog-7)
        
 # Wayback Analysis
 
