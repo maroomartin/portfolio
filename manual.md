@@ -84,16 +84,15 @@
   
 - [AI Statement & References](#ai-statement--references)
 
-
 ---
 
 # Introduction
 
-Off-roading is more than just a hobby—it's a gateway to adventure, self-reliance, and a deeper connection with the natural world. But driving through high desert terrain requires more than a 4WD badge and a sense of adventure. It takes preparation, skill, and respect for the rugged and fragile landscape you’re about to explore.
+Off-roading is more than just a hobby, it's a gateway to adventure, self-reliance, and a deeper connection with the natural world. But driving through high desert terrain requires more than a 4WD badge and a sense of adventure. It takes preparation, skill, and respect for the rugged and fragile landscape you’re about to explore.
 
 This manual is designed for beginners who are ready to take their Jeep Gladiator off the pavement and into the wild high desert. Whether you're planning a weekend trail run or your first solo overlanding trip, this guide will walk you through the essential steps for navigating desert terrain safely, sustainably, and confidently.
 
-The **Jeep Gladiator** is a capable and versatile off-road vehicle, but like any tool, it performs best when used with intention. From engaging Off-Road Mode to learning when to air down your tires, this manual covers not just the *how*—but the *why* behind each step.
+The **[Jeep Gladiator](https://www.jeep.com/gladiator.html)** is a capable and versatile off-road vehicle, but like any tool, it performs best when used with intention. From engaging Off-Road Mode to learning when to air down your tires, this manual covers not just the *how*—but the *why* behind each step.
 
 ### What You'll Learn
 - How to prepare your Jeep and gear for high desert conditions  
@@ -102,7 +101,7 @@ The **Jeep Gladiator** is a capable and versatile off-road vehicle, but like any
 - Emergency recovery basics and desert safety tips  
 - Sustainable practices for protecting fragile desert ecosystems  
 
-This guide prioritizes real-world experience, clear visuals, and actionable steps. It’s meant to be practical, not theoretical—because when you're ten miles down a washboard trail, theory won’t dig your tires out of the sand.
+This guide prioritizes real-world experience, clear visuals, and actionable steps. It’s meant to be practical, not theoretical, because when you're ten miles down a washboard trail, theory won’t dig your tires out of the sand.
 
 > ### **Before You Begin: Who This Manual Is For**
 > - New Jeep Gladiator owners eager to explore off-road adventures  
@@ -118,7 +117,7 @@ Let’s get rolling.
 
 # Essential Gear and Vehicle Preparation
 
-Before you shift into 4WD and take on high desert trails, you need more than just excitement—you need preparation. The right gear can mean the difference between an epic day and a stranded situation. This section covers how to prepare your Jeep Gladiator and what to pack for safe, confident desert exploration.
+Before you shift into 4WD and take on high desert trails, you need more than just excitement, you need preparation. The right gear can mean the difference between an epic day and a stranded situation. This section covers how to prepare your Jeep Gladiator and what to pack for safe, confident desert exploration.
 
 ---
 
@@ -132,33 +131,37 @@ A stock Jeep Gladiator is capable—but a few upgrades and checks will take your
 - **Spare:** Always carry a full-size spare in good condition  
 
 > *Tip: In sandy terrain, consider airing down your tires to 15–20 PSI for better traction.*
-
+  
+> ![IMG_4221](https://github.com/user-attachments/assets/cb501a37-58ac-47b4-9482-17c4fb7fec7c)
+> *Figure 2: Jeep Gladiator all-terrain tire. Image by Mariah, taken in the Western Slopes of Colorado.*
+  
 ### **2. Suspension and Clearance**
 - Lift kits are optional, but **ground clearance of at least 10 inches** is ideal  
 - Skid plates protect vital components from rocks and sharp terrain  
-
+> ![Screenshot 2025-04-02 at 12 45 07 PM](https://github.com/user-attachments/assets/6013f70f-b059-4195-aa38-138199f20171)  
+> *Figure 3: Jeep Gladiator with lift and clearance. Image by Mariah, taken in the Western Slopes of Colorado.*
+ 
 ### **3. Recovery Points**
 - Ensure your Jeep has **front and rear recovery points** (hooks or D-rings)  
-- Factory Gladiator tow hooks are usually trail-ready—confirm yours are solidly mounted
+- Factory Gladiator tow hooks are usually trail-ready. Confirm yours are solidly mounted
 
 ---
 
 ## Recovery Gear Checklist
-
-Bring recovery tools **even if you don’t think you’ll need them**—they’re insurance for you *and* fellow travelers.
-
+ 
+Bring recovery tools **even if you don’t think you’ll need them**. They’re insurance for you *and* fellow travelers.
+  
 - [ ] Tow strap or kinetic recovery rope (rated for your vehicle’s weight)  
 - [ ] Soft shackles or D-ring shackles  
-- [ ] Traction boards (Maxtrax or similar)  
+- [ ] Traction boards ([Maxtrax](https://maxtraxus.com/collections/4x4-traction-boards?srsltid=AfmBOopSqbA5frUDggJ_DoFWOVj_Kuywa-eLCz3vBMkCqw99qxL7g-H_)or similar)  
 - [ ] Shovel  
 - [ ] Portable air compressor  
 - [ ] Tire deflator tool  
 - [ ] Jack rated for off-road use (Hi-Lift or bottle jack)  
 - [ ] Gloves and recovery gear bag  
-
-> ![Recovery Gear Example](images/recovery-gear.jpg)  
-> *Figure 2: Essential recovery gear laid out for inspection before departure.*
-
+> ![Recovery Gear Example](https://github.com/user-attachments/assets/c9a7ee96-c3eb-42bc-ba30-e265f758e8bd)
+> *Figure 4: Essential recovery gear: traction boards and shovel. Image by Mariah, taken in the Western Slopes of Colorado.*
+ 
 ---
 
 ## Safety and Survival Essentials
@@ -169,7 +172,7 @@ Desert environments are unforgiving. Always prepare for the unexpected.
 - [ ] First-aid kit (check expiration dates)  
 - [ ] Fire extinguisher (Class B/C)  
 - [ ] Flashlights and headlamps (with extra batteries)  
-- [ ] Emergency radio or satellite communicator (e.g., Garmin inReach)  
+- [ ] Emergency radio or satellite communicator (ex. [Garmin inReach](https://www.rei.com/product/208257/garmin-inreach-mini-2?sku=2082570001&store=&CAWELAID=120217890013366297&CAGPSPN=pla&CAAGID=109679470271&CATCI=pla-2449444085647&cm_mmc=PLA_Google%7C21700000001700551_2082570001%7C%7CNB%7C71700000062146987&gad_source=1&gclid=CjwKCAjwwLO_BhB2EiwAx2e-304bQGsubD2VNILv41-0jXfAcgHWXPfxbcTzgc35ixLB4rKlqpCfkhoCDJ0QAvD_BwE&gclsrc=aw.ds))  
 - [ ] Physical map and compass  
 - [ ] Sunscreen, hat, sunglasses, long sleeves  
 
@@ -180,7 +183,7 @@ Desert environments are unforgiving. Always prepare for the unexpected.
 Before you leave pavement, run through this simple safety list:
 
 - [ ] Full tank of gas  
-- [ ] Tire pressure set for terrain (air down if needed)  
+- [ ] Tire pressure set for terrain ([Watch this video on airing up/down](https://www.youtube.com/watch?v=KieVWwu4y9Y&ab_channel=LostInOverland))  
 - [ ] Recovery gear accessible and secured  
 - [ ] All tools and gear stowed properly  
 - [ ] Communication devices charged and ready  
@@ -189,13 +192,9 @@ Before you leave pavement, run through this simple safety list:
 
 ---
 
-By properly preparing both your vehicle and your gear, you're laying the foundation for a safe, successful, and stress-free adventure. In the next section, we'll cover what makes high desert terrain unique—and how to read it like a seasoned trail guide.
-
----
-
 # Understanding High Desert Terrain
 
-The high desert is as breathtaking as it is brutal. Unlike coastal or forest trails, high desert terrain brings a unique mix of challenges—wide-open spaces, unpredictable traction, extreme temperatures, and minimal shade. Knowing what to expect and how to read the land can prevent costly mistakes and keep your off-road experience safe and enjoyable.
+The high desert is as breathtaking as it is brutal. Unlike coastal or forest trails, high desert terrain brings a unique mix of challenges: wide-open spaces, unpredictable traction, extreme temperatures, and minimal shade. Knowing what to expect and how to read the land can prevent costly mistakes and keep your off-road experience safe and enjoyable.
 
 ---
 
@@ -214,7 +213,9 @@ These areas are known for:
 - Sand and gravel washes  
 - Dry riverbeds (arroyos)  
 - Wide temperature swings (hot days, cold nights)
-
+> ![High Desert Terrain](https://github.com/user-attachments/assets/2de08bdc-6ac5-406e-9052-9bffe2bb8146)  
+> *Figure 5: The hgih desert terrain. Image by Mariah, taken in Utah.*
+  
 ---
 
 ## Common Terrain Types You’ll Encounter
