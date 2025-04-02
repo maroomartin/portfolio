@@ -6,10 +6,10 @@
 ## *A Beginner’s Guide to Safe, Smart, and Sustainable Overlanding*
 
 ---
-
-![Jeep Gladiator in the Desert](https://github.com/user-attachments/assets/a2f46869-28d5-4525-83ce-5855f47360c6)
-*Figure 1: Jeep Gladiator navigating high desert terrain. Image by Mariah, taken in the Western Slopes of Colorado.*
-
+  
+> ![Jeep Gladiator in the Desert](https://github.com/user-attachments/assets/a2f46869-28d5-4525-83ce-5855f47360c6)   
+> *Figure 1: Jeep Gladiator navigating high desert terrain. Image by Mariah, taken in the Western Slopes of Colorado.*  
+  
 ---
 
 > *This manual provides step-by-step instructions, safety guidance, and environmental best practices for exploring high desert terrain in a Jeep Gladiator. Whether you're new to off-roading or preparing for your first solo run, this guide will help you build confidence, protect the environment, and enjoy the journey.*
@@ -108,7 +108,7 @@ This guide prioritizes real-world experience, clear visuals, and actionable step
 > - Beginner off-roaders with little or no experience in desert environments  
 > - Overlanders looking to develop safe, respectful, and eco-conscious driving habits  
 > - Anyone interested in high desert terrain—its beauty, risks, and rewards  
-> 
+   
 > If you’re already an experienced rock crawler or seasoned desert explorer, this guide may feel like a refresher—but even pros can benefit from sustainable trail practices.
   
 Let’s get rolling.
