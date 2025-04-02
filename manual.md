@@ -214,7 +214,7 @@ These areas are known for:
 - Dry riverbeds (arroyos)  
 - Wide temperature swings (hot days, cold nights)
 > ![High Desert Terrain](https://github.com/user-attachments/assets/2de08bdc-6ac5-406e-9052-9bffe2bb8146)  
-> *Figure 5: The hgih desert terrain. Image by Mariah, taken in Utah.*
+> *Figure 5: The high desert terrain. Image by Mariah, taken in Utah.*
   
 ---
 
@@ -226,9 +226,9 @@ Understanding these terrain types will help you adapt your driving style in real
 - Can include loose rocks, ledges, and slickrock  
 - Low speed, high traction areas  
 - Use `4L` and consider rear locker for steep inclines
-
-> ![Rocky terrain trail](images/rocky-trail.jpg)  
-> *Figure 3: Rocky trail section with loose boulders—ideal for slow crawl techniques.*
+ 
+> ![Rocky Terrain Trail](https://github.com/user-attachments/assets/a0473b5d-b7b9-4751-a6a6-c41648104170)  
+> *Figure 6: Rocky trail section with loose boulders, ideal for slow crawl techniques. Image by Mariah, taken in Utah.*
 
 ### **2. Sandy Washes**
 - Soft, loose sand—easy to get bogged down  
@@ -241,7 +241,7 @@ Understanding these terrain types will help you adapt your driving style in real
 - Avoid during or after rain due to flash flood risk
 
 ### **4. Rutted Paths and Washboard Roads**
-- Common on access trails—can wear down suspension over time  
+- Common on access trails and can wear down suspension over time  
 - Lower your speed to reduce impact  
 - Consider airing down slightly for comfort
 
@@ -251,14 +251,10 @@ Understanding these terrain types will help you adapt your driving style in real
 
 Desert weather can change fast. Keep an eye on:
 
-- **Daytime heat:** Temps can exceed 100°F—carry extra water and sun protection  
+- **Daytime heat:** Temps can exceed 100°F. Carry extra water and sun protection  
 - **Cold nights:** Even summer nights can dip into the 40s  
-- **Flash floods:** Check weather reports—dry washes can flood in minutes  
+- **Flash floods:** Check weather reports as dry washes can flood in minutes  
 - **Wind:** High winds can reduce visibility and increase dust inhalation   
-
----
-
-Learning to read the desert is like learning a new language—at first, it seems foreign. But the more time you spend on the trail, the more you’ll understand what the terrain is telling you.
 
 ---
 
@@ -274,13 +270,13 @@ Rocky terrain demands patience, slow speed, and careful wheel placement.
 
 ### **Technique Tips**
 - Shift into `4L` (4 Low) for increased torque and control  
-- Use your Jeep’s crawl capability—**slow and steady wins the rock race**  
+- Use your Jeep’s crawl capability: **slow and steady wins the rock race**  
 - If available, engage **rear locker** for even tire rotation on uneven surfaces  
 - Use a spotter if visibility is limited or obstacles are tight
-
-> ![Rock crawling Jeep](images/rock-crawl.jpg)  
-> *Figure 4: Jeep Gladiator crawling over a rock ledge in low gear.*
-
+  
+> ![Rock Crawling Jeep](https://github.com/user-attachments/assets/bf485fd3-e464-4fef-8962-1f8c58c126c4) 
+> *Figure 7: Jeep Gladiator crawling over a rock ledge in low gear. Image by Mariah, taken in Utah*
+ 
 ---
 
 ## Soft Sand and Sandy Washes
@@ -289,8 +285,8 @@ Sand is a high desert wildcard—beautiful, but easy to get stuck in.
 
 ### **Technique Tips**
 - Shift into `4H` (4 High) and **air down tires** to increase surface area  
-- Keep momentum steady—**don’t stop unless absolutely necessary**  
-- Avoid sharp turns; they increase your chance of digging in  
+- Keep momentum steady: **don’t stop unless absolutely necessary**  
+- Avoid sharp turns, they increase your chance of digging in  
 - Use **Off-Road+ mode** if available for throttle control and reduced wheel spin
 
 > *If you start to sink, ease off the gas and try reversing out in your own tracks.*
@@ -304,11 +300,11 @@ The desert is full of mesas and steep, loose hills that challenge traction and c
 ### **Uphill Driving**
 - Use `4L` and take a **straight line up** whenever possible  
 - **Do not stop mid-climb** unless it's absolutely safe  
-- Stay light on the throttle—wheel spin = lost traction
+- Stay light on the throttle—wheel spin 
 
 ### **Downhill Driving**
 - Let engine braking do the work: **stay in `4L` and low gear**  
-- Avoid riding the brakes—this can cause skidding  
+- Avoid riding the brakes, this can cause skidding  
 - Descend slowly and in a straight line to maintain stability
 
 ---
@@ -317,9 +313,9 @@ The desert is full of mesas and steep, loose hills that challenge traction and c
 
 Good trail behavior is as important as driving technique.
 
-- **Yield to uphill traffic**—they need momentum  
-- Don’t spin tires unnecessarily; it causes erosion and damage  
-- Stay on marked trails—avoid creating “ghost trails”  
+- **Yield to uphill traffic** as they need momentum  
+- Don’t spin tires unnecessarily, it causes erosion and damage  
+- Stay on marked trails and avoid creating “ghost trails”  
 - If traveling in a group, use hand signals or radios to communicate
 
 ---
@@ -327,7 +323,7 @@ Good trail behavior is as important as driving technique.
 # Using Off-Road Mode in the Jeep Gladiator
 *A Step-by-Step Guide to Engaging Off-Road Systems*
 
-Jeep Gladiators are built for off-road adventures, and their **Off-Road Mode** features make tackling tough terrain a lot easier. This mode adjusts throttle, transmission, and traction settings automatically to match trail conditions—giving you more control, better grip, and peace of mind on rugged trails.
+Jeep Gladiators are built for off-road adventures, and their **Off-Road Mode** features make tackling tough terrain a lot easier. This mode adjusts throttle, transmission, and traction settings automatically to match trail conditions, giving you more control, better grip, and peace of mind on rugged trails.
 
 ---
 
@@ -349,12 +345,16 @@ Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
 - Use the 4WD selector to choose:
   - `4H` for sand, gravel, and mild terrain
   - `4L` for crawling, steep climbs, or descents
+> ![Shifting Gears](https://github.com/user-attachments/assets/07d7d933-61dd-47dd-a8a7-4c136d36c5b3)  
+> *Figure 8: Jeep Gladiator shifting gears to 4L. Image by Mariah, taken in Utah*
 
 > *Shift from `4H` to `4L` while rolling slowly (2–5 mph), with the transmission in Neutral.*
 
 ### **3. Press the Off-Road+ Button**
 - Located near the gear selector or on the center dash
 - This activates optimized settings for throttle, traction, and shifting
+> ![Pressing the Off-road Button](https://github.com/user-attachments/assets/e633aa10-7a06-44cc-b9a3-33644b1d356b)  
+> *Figure 9: Pointing to the Off-road button. Image by Mariah, taken in Utah*  
 
 ### **4. Confirm Activation**
 - Look for the **Off-Road+ icon** on your dash display
@@ -370,17 +370,15 @@ Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
 
 ### **Sway Bar Disconnect** *(Rubicon only)*
 - Increases wheel articulation over rocky or uneven terrain
-
+> ![Locker and Sway Bar](https://github.com/user-attachments/assets/347074b4-bfe5-4287-8f29-168ea076c9b9) 
+> *Figure 10: Locker button and sway bar disconnect button. Image by Mariah, taken in Utah*
+  
 ---
 
 ## Tips for Smart Use
 - **Engage Off-Road Mode before** you hit the tricky terrain—not during  
 - **Don’t forget to turn it off** when returning to pavement  
-- Combine Off-Road Mode with smart driving techniques—don’t rely on it alone
-
----
-
-Off-Road Mode is like having a trail-savvy co-pilot built right into your dash. When used properly, it enhances everything from traction to confidence—especially when paired with thoughtful driving and terrain awareness.
+- Combine Off-Road Mode with smart driving techniques, don’t rely on it alone
 
 ---
 
