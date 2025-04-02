@@ -18,17 +18,70 @@
 
 # Table of Contents
 
-- [Introduction](#introduction)
-- [Essential Gear and Vehicle Preparation](#essential-gear-and-vehicle-preparation)
-- [Understanding High Desert Terrain](#understanding-high-desert-terrain)
-- [Driving Techniques for High Desert Terrain](#driving-techniques-for-high-desert-terrain)
-- [Using Off-Road Mode in the Jeep Gladiator](#using-off-road-mode-in-the-jeep-gladiator)
-- [Safety and Recovery Procedures](#safety-and-recovery-procedures)
-- [Environmental Awareness and Sustainable Off-Roading](#environmental-awareness-and-sustainable-off-roading)
-- [Navigation and Trip Planning](#navigation-and-trip-planning)
-- [Troubleshooting and Maintenance in the Field](#troubleshooting-and-maintenance-in-the-field)
-- [Resources and Further Learning](#resources-and-further-learning)
+- [Introduction](#introduction)  
+  - [What You'll Learn](#what-youll-learn)  
+  - [Before You Begin: Who This Manual Is For](#before-you-begin-who-this-manual-is-for)
+
+- [Essential Gear and Vehicle Preparation](#essential-gear-and-vehicle-preparation)  
+  - [Jeep Gladiator Pre-Trip Setup](#jeep-gladiator-pre-trip-setup)  
+  - [Recovery Gear Checklist](#recovery-gear-checklist)  
+  - [Safety and Survival Essentials](#safety-and-survival-essentials)  
+  - [Jeep Gladiator Pre-Drive Checklist](#jeep-gladiator-pre-drive-checklist)
+
+- [Understanding High Desert Terrain](#understanding-high-desert-terrain)  
+  - [What is High Desert?](#what-is-high-desert)  
+  - [Common Terrain Types You’ll Encounter](#common-terrain-types-youll-encounter)  
+  - [Weather Considerations](#weather-considerations)
+
+- [Driving Techniques for High Desert Terrain](#driving-techniques-for-high-desert-terrain)  
+  - [Rocky Trails and Technical Sections](#rocky-trails-and-technical-sections)  
+  - [Soft Sand and Sandy Washes](#soft-sand-and-sandy-washes)  
+  - [Hill Climbs and Descents](#hill-climbs-and-descents)  
+  - [Trail Etiquette and Awareness](#trail-etiquette-and-awareness)
+
+- [Using Off-Road Mode in the Jeep Gladiator](#using-off-road-mode-in-the-jeep-gladiator)  
+  - [When to Use Off-Road Mode](#when-to-use-off-road-mode)  
+  - [How to Engage Off-Road Mode](#how-to-engage-off-road-mode)  
+  - [Optional: Use Built-In Trail Features](#optional-use-built-in-trail-features)  
+  - [Tips for Smart Use](#tips-for-smart-use)
+
+- [Safety and Recovery Procedures](#safety-and-recovery-procedures)  
+  - [If You Get Stuck](#if-you-get-stuck)  
+  - [Safe Winching Basics](#safe-winch-basics)  
+  - [Using a Tow Strap](#using-a-tow-strap)  
+  - [Personal Safety & Emergency Tips](#personal-safety--emergency-tips)  
+  - [Pro Safety Tips](#pro-safety-tips)
+
+- [Environmental Awareness and Sustainable Off-Roading](#environmental-awareness-and-sustainable-off-roading)  
+  - [Why It Matters](#why-it-matters)  
+  - [What Not to Do](#what-not-to-do)  
+  - [What to Always Do](#what-to-always-do)  
+  - [Respect for Wildlife](#respect-for-wildlife)  
+  - [Trail Karma](#trail-karma)
+
+- [Navigation and Trip Planning](#navigation-and-trip-planning)  
+  - [Choosing the Right Trail](#choosing-the-right-trail)  
+  - [Digital Navigation Tools](#digital-navigation-tools)  
+  - [Bring a Paper Backup](#bring-a-paper-backup)  
+  - [Fuel and Range Planning](#fuel-and-range-planning)  
+  - [Build a Backup Plan](#build-a-backup-plan)
+
+- [Troubleshooting and Maintenance in the Field](#troubleshooting-and-maintenance-in-the-field)  
+  - [Flat Tire Fixes](#flat-tire-fixes)  
+  - [Overheating Engine](#overheating-engine)  
+  - [Dead Battery or Electrical Gremlins](#dead-battery-or-electrical-gremlins)  
+  - [Suspension & Underbody Damage](#suspension--underbody-damage)  
+  - [Tools You Should Always Carry](#tools-you-should-always-carry)
+
+- [Resources and Further Learning](#resources-and-further-learning)  
+  - [Recommended Reading](#recommended-reading)  
+  - [YouTube Channels](#youtube-channels)  
+  - [Navigation & Planning Tools](#navigation--planning-tools)  
+  - [Jeep Gladiator Community Forums](#jeep-gladiator-community-forums)  
+  - [Sustainable Off-Roading Resources](#sustainable-off-roading-resources)
+
 - [AI Statement & Works Cited](#ai-statement--works-cited)
+
 
 ---
 
