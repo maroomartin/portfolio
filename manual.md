@@ -370,7 +370,7 @@ Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
 
 ### **Sway Bar Disconnect** *(Rubicon only)*
 - Increases wheel articulation over rocky or uneven terrain
-> ![Locker and Sway Bar](https://github.com/user-attachments/assets/347074b4-bfe5-4287-8f29-168ea076c9b9) 
+> ![Locker and Sway Bar](https://github.com/user-attachments/assets/347074b4-bfe5-4287-8f29-168ea076c9b9)   
 > *Figure 10: Locker button and sway bar disconnect button. Image by Mariah, taken in Utah*
   
 ---
