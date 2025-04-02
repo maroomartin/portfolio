@@ -400,15 +400,15 @@ Stay calm. Assess the situation before doing anything.
 3. **Try backing out slowly** – sometimes reversing along your tracks can get you out.
 4. **Use traction boards** – place under the drive tires and apply light throttle.
 5. **Air down your tires further** if not already at low PSI (as low as 12–15 PSI in soft sand).
-
-> ![Traction recovery boards](images/traction-boards.jpg)  
-> *Figure 5: Using traction boards to recover from soft sand.*
-
+    
+> ![Jeep Stuck](https://github.com/user-attachments/assets/02f5e684-a1e9-42da-8ff4-7d470a386042)     
+> *Figure 11: Jeep stuck in thick, icy mud. Image by Mariah, taken in the Western Slopes of Colorado.*
+ 
 ---
 
 ## Safe Winching Basics
 
-If you're using a winch, it’s critical to do it safely—for yourself and your gear.
+If you're using a winch, it’s critical to do it safely, for yourself and your gear.
 
 ### **Checklist for a Safe Winch Pull**
 - [ ] Use **gloves** to handle the winch line  
@@ -416,13 +416,15 @@ If you're using a winch, it’s critical to do it safely—for yourself and your
 - [ ] Stand to the **side**, not in line with the cable  
 - [ ] Use a **winch damper** or heavy blanket to reduce line snapback risk  
 - [ ] Keep bystanders at a safe distance  
+> ![Example Winch](https://github.com/user-attachments/assets/86b8e73e-c1e6-43af-ad02-2e7339e6d191)   
+> *Figure 12: Winch-ready bumper attached to jeep. Image by Mariah, taken in the Western Slopes of Colorado.*  
 
 ### **Steps for Winch Recovery**
 1. Set your parking brake and put the vehicle in neutral.  
-2. Attach winch hook to anchor point (tree strap or recovery point).  
-3. Slowly spool out winch line using the clutch lever.  
-4. Re-engage clutch and winch in short, steady pulls.  
-5. Stop when tires regain traction and the Jeep moves forward.
+2. Attach winch hook to anchor point (tree strap or recovery point).    
+3. Slowly spool out winch line using the clutch lever.   
+4. Re-engage clutch and winch in short, steady pulls.   
+5. Stop when tires regain traction and the Jeep moves forward.    
 
 ---
 
@@ -446,9 +448,9 @@ Even experienced off-roaders can run into unexpected challenges. Be prepared for
 - **Minor injuries** – carry and know how to use your first-aid kit  
 - **Vehicle breakdowns** – carry tools, fluids, and an emergency beacon  
 - **Losing the trail or getting lost** – use GPS + paper maps, mark your last known location
-
-> ![Trail safety gear](images/safety-kit.jpg)  
-> *Figure 6: Essential safety gear laid out before departure.*
+  
+> ![Trail GPS](https://github.com/user-attachments/assets/7e9c8bd2-c039-466c-8e39-528ac0db0144)   
+> *Figure 13: Essential safety gear: Garmin GPS System. Image by Mariah, taken in Utah.*  
 
 ---
 
@@ -459,10 +461,6 @@ Even experienced off-roaders can run into unexpected challenges. Be prepared for
 - Carry more water than you think you’ll need  
 - Be honest with yourself—**turn back if conditions feel unsafe**  
 - Learn basic vehicle maintenance and troubleshooting
-
----
-
-The best recovery is prevention—but if you do get stuck, calm decision-making and the right tools will get you back on the trail. In the next section, we’ll explore how to protect the desert you love through responsible and sustainable off-roading practices.
 
 ---
 
@@ -487,17 +485,17 @@ As off-roaders, it’s our job to leave trails better than we found them.
 - ❌ Do not blaze new trails through unmarked desert  
 - ❌ Avoid spinning tires or drifting in sensitive areas  
 - ❌ Never stack rocks for traction on trails (unless for safety, then dismantle)  
-- ❌ Don’t leave trash, gear, or fire remains behind  
-
-> ![Example of trail damage](images/trail-damage.jpg)  
-> *Figure 7: Trail damage from off-route driving—takes decades to heal.*
-
+- ❌ Don’t leave trash, gear, or fire remains behind 
+  
+> ![Trail Restoration Area](https://github.com/user-attachments/assets/d5711bd1-ff87-4253-81c0-d9b1a1c1f5a5)   
+> *Figure 14: Trail damage from off-route driving. This takes decades to heal. In areas where this has been more prevalent, "Restoration" signs may be posted. Image by Mariah, taken in Utah.*  
+  
 ---
 
 ## What to *Always* Do
 
 ### **1. Stay on Designated Trails**
-- Use GPS apps like Gaia GPS or OnX Offroad to stay on legal routes  
+- Use GPS systems like Garmin GPS or OnX Offroad to stay on legal routes  
 - Follow BLM and National Forest signage and maps  
 
 ### **2. Pack It In, Pack It Out**
@@ -510,7 +508,7 @@ As off-roaders, it’s our job to leave trails better than we found them.
 
 ### **4. Respect Closures and Permits**
 - Check local regulations before entering public lands  
-- Many high desert trails require permits—know before you go
+- Many high desert trails require permits: know before you go
 
 ---
 
@@ -520,13 +518,7 @@ You may encounter snakes, lizards, birds of prey, coyotes, and even wild horses 
 
 - Observe from a distance  
 - Don’t feed or follow wildlife  
-- If you find animal tracks—photograph them, don’t drive over them  
-
----
-
-## Trail Karma
-
-Being a responsible off-roader protects access for everyone. Leave the land better than you found it. Help others. Model good behavior. That’s the kind of trail karma that keeps adventures alive.
+- If you find animal tracks, try to avoid driving over them  
 
 ---
 
