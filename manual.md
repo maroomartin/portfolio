@@ -47,7 +47,7 @@
 
 - [Safety and Recovery Procedures](#safety-and-recovery-procedures)  
   - [If You Get Stuck](#if-you-get-stuck)  
-  - [Safe Winching Basics](#safe-winch-basics)  
+  - [Safe Winching Basics](#safe-winching-basics)  
   - [Using a Tow Strap](#using-a-tow-strap)  
   - [Personal Safety & Emergency Tips](#personal-safety--emergency-tips)  
   - [Pro Safety Tips](#pro-safety-tips)
