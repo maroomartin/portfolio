@@ -524,16 +524,14 @@ You may encounter snakes, lizards, birds of prey, coyotes, and even wild horses 
 
 # Navigation and Trip Planning
 
-Getting lost in the desert isn’t just inconvenient—it can be dangerous. With few landmarks, unreliable service, and trails that change with weather and time, planning your route is essential for a successful and safe off-road experience.
-
-This section breaks down how to plan your trip, use off-road navigation tools, and build a reliable safety net in case things don’t go as planned.
+Getting lost in the desert isn’t just inconvenient, it can be dangerous. With few landmarks, unreliable service, and trails that change with weather and time, planning your route is essential for a successful and safe off-road experience.
 
 ---
 
 ## Choosing the Right Trail
 
 ### **Start with Research**
-- Use trusted apps like **Gaia GPS**, **OnX Offroad**, or **AllTrails (4x4 filter)**  
+- Use trusted apps like **OnX Offroad** or **Trails Offroad**  
 - Check trail ratings (easy, moderate, hard) and user reviews  
 - Confirm open/closed status through **BLM, Forest Service, or park websites**
 
@@ -546,20 +544,19 @@ This section breaks down how to plan your trip, use off-road navigation tools, a
 
 ## Digital Navigation Tools
 
-### **1. Gaia GPS**
-- Great topo maps and offline use  
+### **1. Trails Offroad**
+- Great maps and offline use  
 - Mark waypoints and plan routes ahead of time
-
+- [Website Link](https://www.trailsoffroad.com/)
+  
 ### **2. OnX Offroad**
 - Shows trail difficulty, land ownership, and camp spots  
 - Use 3D View to scout terrain before your trip
-
+- [Website Link](https://www.onxmaps.com/)
+   
 ### **3. Google Maps (for backup)**
 - Pin key gas stops and emergency exits  
 - Screenshot directions in case of poor signal
-
-> ![Gaia GPS screenshot](images/gaiagps-map.jpg)  
-> *Figure 8: Route planned in Gaia GPS with waypoints marked for campsites and obstacles.*
 
 ---
 
@@ -578,13 +575,13 @@ Even the best apps can fail. Always carry:
 - Factor in **extra gas usage** for steep climbs, deep sand, and low-speed crawling  
 - Carry extra fuel if your route is remote or looped
 
-> *Tip: Fill up at the last town before trailhead—don’t assume pumps near trails will be working.*
+> *Tip: Fill up at the last town before trailhead and don’t assume pumps near trails will be working.*
 
 ---
 
 ## Build a Backup Plan
 
-You need a plan *for when things go wrong*—not just when they go right.
+You need a plan *for when things go wrong*, not just when they go right.
 
 ### **Include:**
 - Your intended route, ETA, and return date  
@@ -595,7 +592,7 @@ You need a plan *for when things go wrong*—not just when they go right.
 ---
 
 ## Suggested Photos for This Section
-- Screenshot of Gaia or OnX route  
+- Screenshot of OnX route  
 - Photo of paper map or compass in use  
 - Fuel canisters or gas station at trailhead  
 - Screenshot of a trail warning or closure notice  
@@ -609,9 +606,7 @@ Smart navigation turns a good trip into a great one—and builds the confidence 
 
 # Troubleshooting and Maintenance in the Field
 
-Even with perfect planning, things can (and will) go wrong. From overheating engines to shredded tires, the desert has a way of testing your gear—and your grit.
-
-This section covers the most common issues off-roaders face in high desert terrain, and how to troubleshoot them with confidence and care.
+Even with perfect planning, things can (and will) go wrong. From overheating engines to shredded tires, the desert has a way of testing your gear and your grit.
 
 ---
 
@@ -630,9 +625,9 @@ Tires take the most abuse off-road. Always be ready for a puncture or sidewall t
 - Tire plug kit (for small punctures)  
 - Portable compressor to re-inflate repaired tires  
 - Tire deflator + pressure gauge combo
-
-> ![Tire repair on the trail](images/tire-fix.jpg)  
-> *Figure 9: Gladiator tire repair in the field using a plug kit and compressor.*
+  
+> ![Tire Repair Kit](https://github.com/user-attachments/assets/95448866-0e50-4b8c-a38d-81a53b6142e5)     
+> *Figure 15: Jeep Gladiator tire repair Kit. Image by Mariah, taken in the Western Slopes of Colorado.*  
 
 ---
 
@@ -643,7 +638,7 @@ Desert heat, slow speeds, and long climbs can cause your engine to overheat.
 ### **What to Do**
 - Turn off A/C, pop the hood, and idle in neutral  
 - Let the engine cool before opening the radiator cap  
-- Add coolant if low—but only once the engine is cool  
+- Add coolant if low, but only once the engine is cool  
 - Clean radiator grille of dust, bugs, or debris blocking airflow
 
 > *Tip: Carry extra water and coolant mix in your recovery kit.*
@@ -684,10 +679,6 @@ Sharp rocks and high-clearance obstacles can damage critical components.
 
 ---
 
-Being able to fix small issues on the trail can keep your trip going—or at least get you safely back to pavement.
-
----
-
 # Resources and Further Learning
 
 Whether you’re looking to level up your technical driving skills, dive deeper into Jeep Gladiator mods, or become an off-road trail steward, the resources below offer expert guidance and community support.
@@ -698,7 +689,7 @@ Whether you’re looking to level up your technical driving skills, dive deeper 
 
 - **"Overlanders' Handbook" by Chris Scott** – A comprehensive guide to vehicle-based adventure travel  
 - **"4WD Driving Skills" by Vic Widman** – A practical book on off-road technique and vehicle control  
-- **"The Complete Guide to Off-Road Driving" by Tom Sheppard** – Covers navigation, recovery, and advanced trail strategy  
+- **"Four-by-four driving" by Tom Sheppard** – Covers navigation, recovery, and advanced trail strategy  
 - **Tread Lightly! Principles** – [https://treadlightly.org](https://treadlightly.org)
 
 ---
@@ -713,10 +704,9 @@ Whether you’re looking to level up your technical driving skills, dive deeper 
 ---
 
 ## Navigation & Planning Tools
-
-- [Gaia GPS](https://www.gaiagps.com) – Offline topo maps and custom route planning  
+ 
 - [OnX Offroad](https://www.onxmaps.com/offroad) – Trail ratings, difficulty filters, and access insights  
-- [AllTrails](https://www.alltrails.com) – Search for 4WD routes with reviews and GPX downloads  
+- [Trails Offroad](https://www.trailsoffroad.com/) – Search for 4WD routes with reviews and GPX downloads  
 
 ---
 
@@ -749,7 +739,7 @@ A four-wheel drive mode used for moderate off-road conditions like gravel, sand,
 A four-wheel drive mode for steep, slow, technical terrain. Provides maximum torque at low speeds for rock crawling or deep ruts.
 
 ### **Air Down**  
-The process of lowering tire pressure to increase surface contact and traction—especially useful in soft sand or snow.
+The process of lowering tire pressure to increase surface contact and traction, especially useful in soft sand or snow.
 
 ### **Approach Angle**  
 The maximum angle your vehicle can climb without the front bumper hitting the ground.
@@ -758,7 +748,7 @@ The maximum angle your vehicle can climb without the front bumper hitting the gr
 A feature that forces two wheels on the same axle to spin at the same speed for maximum traction on uneven terrain.
 
 ### **Crawl Ratio**  
-A measure of how slowly and powerfully your vehicle can move in low gear—important for rock crawling and steep ascents.
+A measure of how slowly and powerfully your vehicle can move in low gear, which is important for rock crawling and steep ascents.
 
 ### **Drivetrain**  
 The system that sends power from your engine to your wheels (includes transmission, driveshafts, axles, and differentials).
@@ -767,7 +757,7 @@ The system that sends power from your engine to your wheels (includes transmissi
 A type of dry, elevated landscape found in regions like the Mojave, Colorado Plateau, and Great Basin—characterized by heat, rock, and minimal vegetation.
 
 ### **Overlanding**  
-Self-reliant, vehicle-based travel to remote destinations—often including camping, exploration, and extended time off-grid.
+Self-reliant, vehicle-based travel to remote destinations, often including camping, exploration, and extended time off-grid.
 
 ### **Recovery Points**  
 Designated, reinforced areas on a vehicle where tow straps or winches can safely attach for recovery operations.
@@ -782,29 +772,25 @@ Allows the front suspension to flex more, improving traction over uneven terrain
 Flat devices placed under tires to help a stuck vehicle gain traction on sand, mud, or snow.
 
 ### **Trail Etiquette**  
-Common-sense and community-driven rules for safe, respectful off-roading—like yielding to uphill traffic and staying on marked trails.
+Common-sense and community-driven rules for safe, respectful off-roading, like yielding to uphill traffic and staying on marked trails.
 
 ### **Washout**  
-A section of trail eroded by water, often forming deep ruts or gullies—common in desert arroyos or riverbeds.
+A section of trail eroded by water, often forming deep ruts or gullies, which is common in desert arroyos or riverbeds.
 
 ### **Winch**  
 A powered spool of steel or synthetic rope used to pull a vehicle out of stuck situations. Must be used with care and proper technique.
 
 ### **Washboard Road**  
-A dirt road surface with repeating ridges—can be rough on suspension and uncomfortable at high speeds.
+A dirt road surface with repeating ridges—can be rough on suspension and uncomfortable at high speeds.  
+ 
 ---
-
+ 
 # AI Statement & References
 
 ## AI Tools and Software Used
 
-This manual was developed using a combination of AI-assisted and human-generated content. The following tools supported the research, writing, formatting, and editing process:
-
 - **ChatGPT-4o** – for outlining and revising content  
-- **Grammarly** – for grammar, style, and clarity refinements   
-- **AI-enhanced image tools** – used for creating and labeling some trail and gear visuals   
-
-All AI-generated content was reviewed, edited, and customized by the author to ensure clarity, accuracy, and alignment with real-world off-roading practices.
+- **Grammarly** – for grammar, style, and clarity refinements     
 
 ---
 
@@ -819,12 +805,12 @@ All AI-generated content was reviewed, edited, and customized by the author to e
 ### **Trail Resources**
 - Bureau of Land Management (BLM) – [www.blm.gov](https://www.blm.gov)  
 - U.S. Forest Service – [www.fs.usda.gov](https://www.fs.usda.gov)  
-- Leave No Trace Center for Outdoor Ethics – [www.lnt.org](https://www.lnt.org)  
-
+- Leave No Trace Center for Outdoor Ethics – [www.lnt.org](https://www.lnt.org)
+- Tread Lightly! - [www.treadlightly.org](https://treadlightly.org/)
+    
 ### **Photos and Visuals**
-- All photos taken by the author unless otherwise noted  
-- Some icons and illustrations enhanced using royalty-free or AI-generated visuals  
+- All photos taken by the author   
 
 ---
 
-Thank you for exploring this guide! Stay safe, tread lightly, and keep discovering new trails with respect and curiosity. 
+Thank you for exploring this manual! Stay safe, tread lightly, and keep discovering new trails with respect and curiosity. 
