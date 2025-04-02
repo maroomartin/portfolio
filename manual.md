@@ -80,7 +80,9 @@
   - [Jeep Gladiator Community Forums](#jeep-gladiator-community-forums)  
   - [Sustainable Off-Roading Resources](#sustainable-off-roading-resources)
 
-- [AI Statement & Works Cited](#ai-statement--works-cited)
+- [Glossary of Off-Roading Terms](#glossary-of-off-roading-terms)
+  
+- [AI Statement & References](#ai-statement--references)
 
 
 ---
@@ -743,7 +745,65 @@ Whether you’re looking to level up your technical driving skills, dive deeper 
 
 ---
 
-# AI Statement & Works Cited
+# Glossary of Off-Roading Terms
+
+This glossary defines key terms used throughout the manual to support new off-roaders and ensure clarity in technical sections.
+
+---
+
+### **4H (Four High)**  
+A four-wheel drive mode used for moderate off-road conditions like gravel, sand, or light mud. Maintains higher speeds with added traction.
+
+### **4L (Four Low)**  
+A four-wheel drive mode for steep, slow, technical terrain. Provides maximum torque at low speeds for rock crawling or deep ruts.
+
+### **Air Down**  
+The process of lowering tire pressure to increase surface contact and traction—especially useful in soft sand or snow.
+
+### **Approach Angle**  
+The maximum angle your vehicle can climb without the front bumper hitting the ground.
+
+### **Axle Locker / Differential Lock**  
+A feature that forces two wheels on the same axle to spin at the same speed for maximum traction on uneven terrain.
+
+### **Crawl Ratio**  
+A measure of how slowly and powerfully your vehicle can move in low gear—important for rock crawling and steep ascents.
+
+### **Drivetrain**  
+The system that sends power from your engine to your wheels (includes transmission, driveshafts, axles, and differentials).
+
+### **High Desert**  
+A type of dry, elevated landscape found in regions like the Mojave, Colorado Plateau, and Great Basin—characterized by heat, rock, and minimal vegetation.
+
+### **Overlanding**  
+Self-reliant, vehicle-based travel to remote destinations—often including camping, exploration, and extended time off-grid.
+
+### **Recovery Points**  
+Designated, reinforced areas on a vehicle where tow straps or winches can safely attach for recovery operations.
+
+### **Rock Crawling**  
+A slow-speed driving technique used to traverse rocky, uneven terrain with precision.
+
+### **Sway Bar Disconnect**  
+Allows the front suspension to flex more, improving traction over uneven terrain (usually found on Rubicon models).
+
+### **Traction Boards**  
+Flat devices placed under tires to help a stuck vehicle gain traction on sand, mud, or snow.
+
+### **Trail Etiquette**  
+Common-sense and community-driven rules for safe, respectful off-roading—like yielding to uphill traffic and staying on marked trails.
+
+### **Washout**  
+A section of trail eroded by water, often forming deep ruts or gullies—common in desert arroyos or riverbeds.
+
+### **Winch**  
+A powered spool of steel or synthetic rope used to pull a vehicle out of stuck situations. Must be used with care and proper technique.
+
+### **Washboard Road**  
+A dirt road surface with repeating ridges—can be rough on suspension and uncomfortable at high speeds.
+---
+
+# AI Statement & References
 
 ## AI Tools and Software Used
 
@@ -757,7 +817,7 @@ All AI-generated content was reviewed, edited, and customized by the author to e
 
 ---
 
-## Works Cited and References
+## References
 
 ### **Vehicle & Product Sources**
 - Jeep® Gladiator Owner's Manual (2020–2024 models)  
