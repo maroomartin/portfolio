@@ -93,14 +93,6 @@ This manual is designed for beginners who are ready to take their Jeep Gladiator
 
 The **Jeep Gladiator** is a capable and versatile off-road vehicle, but like any tool, it performs best when used with intention. From engaging Off-Road Mode to learning when to air down your tires, this manual covers not just the *how*—but the *why* behind each step.
 
-> ### **Before You Begin: Who This Manual Is For**
-> - New Jeep Gladiator owners eager to explore off-road adventures  
-> - Beginner off-roaders with little or no experience in desert environments  
-> - Overlanders looking to develop safe, respectful, and eco-conscious driving habits  
-> - Anyone interested in high desert terrain—its beauty, risks, and rewards  
-> 
-> If you’re already an experienced rock crawler or seasoned desert explorer, this guide may feel like a refresher—but even pros can benefit from sustainable trail practices.
-
 ### What You'll Learn
 - How to prepare your Jeep and gear for high desert conditions  
 - Driving techniques tailored to sand, rock, and steep grades  
@@ -110,6 +102,14 @@ The **Jeep Gladiator** is a capable and versatile off-road vehicle, but like any
 
 This guide prioritizes real-world experience, clear visuals, and actionable steps. It’s meant to be practical, not theoretical—because when you're ten miles down a washboard trail, theory won’t dig your tires out of the sand.
 
+> ### **Before You Begin: Who This Manual Is For**
+> - New Jeep Gladiator owners eager to explore off-road adventures  
+> - Beginner off-roaders with little or no experience in desert environments  
+> - Overlanders looking to develop safe, respectful, and eco-conscious driving habits  
+> - Anyone interested in high desert terrain—its beauty, risks, and rewards  
+> 
+> If you’re already an experienced rock crawler or seasoned desert explorer, this guide may feel like a refresher—but even pros can benefit from sustainable trail practices.
+  
 Let’s get rolling.
 
 ---
