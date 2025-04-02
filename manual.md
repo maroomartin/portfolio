@@ -154,7 +154,7 @@ Bring recovery tools **even if you don’t think you’ll need them**. They’re
   
 - [ ] Tow strap or kinetic recovery rope (rated for your vehicle’s weight)  
 - [ ] Soft shackles or D-ring shackles  
-- [ ] Traction boards ([Maxtrax](https://maxtraxus.com/collections/4x4-traction-boards?srsltid=AfmBOopSqbA5frUDggJ_DoFWOVj_Kuywa-eLCz3vBMkCqw99qxL7g-H_)or similar)  
+- [ ] Traction boards ([Maxtrax](https://maxtraxus.com/collections/4x4-traction-boards?srsltid=AfmBOopSqbA5frUDggJ_DoFWOVj_Kuywa-eLCz3vBMkCqw99qxL7g-H_) or similar)  
 - [ ] Shovel  
 - [ ] Portable air compressor  
 - [ ] Tire deflator tool  
@@ -234,12 +234,12 @@ Understanding these terrain types will help you adapt your driving style in real
 > *Figure 6: Rocky trail section with loose boulders, ideal for slow crawl techniques. Image by Mariah, taken in Utah.*
 
 ### **2. Sandy Washes**
-- Soft, loose sand—easy to get bogged down  
+- Soft, loose sand, easy to get bogged down  
 - Use `4H` or air down tires for improved traction  
 - Maintain momentum to avoid sinking
 
 ### **3. Dry Riverbeds / Arroyos**
-- Often look deceptively solid—check depth and softness before crossing  
+- Often look deceptively solid, check depth and softness before crossing  
 - Can contain sharp rocks, debris, or deep ruts  
 - Avoid during or after rain due to flash flood risk
 
@@ -350,7 +350,7 @@ Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
   - `4L` for crawling, steep climbs, or descents
       
 > ![Shifting Gears](https://github.com/user-attachments/assets/07d7d933-61dd-47dd-a8a7-4c136d36c5b3)  
-> *Figure 8: Jeep Gladiator shifting gears to 4L. Image by Mariah, taken in Utah*
+> *Figure 8: Jeep Gladiator shifting gears to 4L. Image by Mariah, taken in Utah.*
 
 > *Shift from `4H` to `4L` while rolling slowly (2–5 mph), with the transmission in Neutral.*
 
@@ -473,7 +473,7 @@ Even experienced off-roaders can run into unexpected challenges. Be prepared for
 
 # Environmental Awareness and Sustainable Off-Roading
 
-Off-roading offers freedom, challenge, and unforgettable views—but it also comes with responsibility. High desert ecosystems are fragile and slow to recover. Tracks left behind can last for decades, and one careless shortcut can disrupt years of natural growth.
+Off-roading offers freedom, challenge, and unforgettable views, but it also comes with responsibility. High desert ecosystems are fragile and slow to recover. Tracks left behind can last for decades, and one careless shortcut can disrupt years of natural growth.
 
 As off-roaders, it’s our job to leave trails better than we found them.
 
@@ -506,7 +506,7 @@ As off-roaders, it’s our job to leave trails better than we found them.
 - Follow BLM and National Forest signage and maps  
 
 ### **2. Pack It In, Pack It Out**
-- Bring trash bags and gloves—pack out all waste, even food scraps  
+- Bring trash bags and gloves: pack out all waste, even food scraps  
 - Bonus points: collect litter left by others  
 
 ### **3. Minimize Dust and Noise**
@@ -604,10 +604,6 @@ You need a plan *for when things go wrong*, not just when they go right.
 - Fuel canisters or gas station at trailhead  
 - Screenshot of a trail warning or closure notice  
 - Jeep parked at a scenic waypoint with a visible marker
-
----
-
-Smart navigation turns a good trip into a great one—and builds the confidence you need for longer, more remote adventures.
 
 ---
 
@@ -761,7 +757,7 @@ A measure of how slowly and powerfully your vehicle can move in low gear, which 
 The system that sends power from your engine to your wheels (includes transmission, driveshafts, axles, and differentials).
 
 ### **High Desert**  
-A type of dry, elevated landscape found in regions like the Mojave, Colorado Plateau, and Great Basin—characterized by heat, rock, and minimal vegetation.
+A type of dry, elevated landscape found in regions like the Mojave, Colorado Plateau, and Great Basin, characterized by heat, rock, and minimal vegetation.
 
 ### **Overlanding**  
 Self-reliant, vehicle-based travel to remote destinations, often including camping, exploration, and extended time off-grid.
@@ -788,7 +784,7 @@ A section of trail eroded by water, often forming deep ruts or gullies, which is
 A powered spool of steel or synthetic rope used to pull a vehicle out of stuck situations. Must be used with care and proper technique.
 
 ### **Washboard Road**  
-A dirt road surface with repeating ridges—can be rough on suspension and uncomfortable at high speeds.  
+A dirt road surface with repeating ridges, which can be rough on suspension and uncomfortable at high speeds.  
  
 ---
  
