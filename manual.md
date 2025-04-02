@@ -137,7 +137,8 @@ A stock Jeep Gladiator is capable—but a few upgrades and checks will take your
   
 ### **2. Suspension and Clearance**
 - Lift kits are optional, but **ground clearance of at least 10 inches** is ideal  
-- Skid plates protect vital components from rocks and sharp terrain  
+- Skid plates protect vital components from rocks and sharp terrain
+   
 > ![Screenshot 2025-04-02 at 12 45 07 PM](https://github.com/user-attachments/assets/6013f70f-b059-4195-aa38-138199f20171)  
 > *Figure 3: Jeep Gladiator with lift and clearance. Image by Mariah, taken in the Western Slopes of Colorado.*
  
@@ -158,7 +159,8 @@ Bring recovery tools **even if you don’t think you’ll need them**. They’re
 - [ ] Portable air compressor  
 - [ ] Tire deflator tool  
 - [ ] Jack rated for off-road use (Hi-Lift or bottle jack)  
-- [ ] Gloves and recovery gear bag  
+- [ ] Gloves and recovery gear bag
+        
 > ![Recovery Gear Example](https://github.com/user-attachments/assets/c9a7ee96-c3eb-42bc-ba30-e265f758e8bd)
 > *Figure 4: Essential recovery gear: traction boards and shovel. Image by Mariah, taken in the Western Slopes of Colorado.*
  
@@ -213,6 +215,7 @@ These areas are known for:
 - Sand and gravel washes  
 - Dry riverbeds (arroyos)  
 - Wide temperature swings (hot days, cold nights)
+    
 > ![High Desert Terrain](https://github.com/user-attachments/assets/2de08bdc-6ac5-406e-9052-9bffe2bb8146)  
 > *Figure 5: The high desert terrain. Image by Mariah, taken in Utah.*
   
@@ -345,6 +348,7 @@ Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
 - Use the 4WD selector to choose:
   - `4H` for sand, gravel, and mild terrain
   - `4L` for crawling, steep climbs, or descents
+      
 > ![Shifting Gears](https://github.com/user-attachments/assets/07d7d933-61dd-47dd-a8a7-4c136d36c5b3)  
 > *Figure 8: Jeep Gladiator shifting gears to 4L. Image by Mariah, taken in Utah*
 
@@ -353,6 +357,7 @@ Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
 ### **3. Press the Off-Road+ Button**
 - Located near the gear selector or on the center dash
 - This activates optimized settings for throttle, traction, and shifting
+    
 > ![Pressing the Off-road Button](https://github.com/user-attachments/assets/e633aa10-7a06-44cc-b9a3-33644b1d356b)  
 > *Figure 9: Pointing to the Off-road button. Image by Mariah, taken in Utah*  
 
@@ -370,6 +375,7 @@ Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
 
 ### **Sway Bar Disconnect** *(Rubicon only)*
 - Increases wheel articulation over rocky or uneven terrain
+    
 > ![Locker and Sway Bar](https://github.com/user-attachments/assets/347074b4-bfe5-4287-8f29-168ea076c9b9)   
 > *Figure 10: Locker button and sway bar disconnect button. Image by Mariah, taken in Utah*
   
@@ -415,7 +421,8 @@ If you're using a winch, it’s critical to do it safely, for yourself and your 
 - [ ] Always use a **tree strap** or proper anchor  
 - [ ] Stand to the **side**, not in line with the cable  
 - [ ] Use a **winch damper** or heavy blanket to reduce line snapback risk  
-- [ ] Keep bystanders at a safe distance  
+- [ ] Keep bystanders at a safe distance
+        
 > ![Example Winch](https://github.com/user-attachments/assets/86b8e73e-c1e6-43af-ad02-2e7339e6d191)   
 > *Figure 12: Winch-ready bumper attached to jeep. Image by Mariah, taken in the Western Slopes of Colorado.*  
 
