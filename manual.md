@@ -342,15 +342,18 @@ Turn on Off-Road Mode when navigating:
 ## How to Engage Off-Road Mode
 
 ### **1. Start Your Jeep**
-Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
-
+Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.  
+  
+> ![Start Button](https://github.com/user-attachments/assets/7ecdd009-d34e-44d8-b75e-76b4a2f7bf9f)  
+> *Figure 8: Jeep Gladiator start button. Image by Mariah, taken in Utah.*  
+  
 ### **2. Shift into 4WD**
 - Use the 4WD selector to choose:
   - `4H` for sand, gravel, and mild terrain
   - `4L` for crawling, steep climbs, or descents
       
 > ![Shifting Gears](https://github.com/user-attachments/assets/07d7d933-61dd-47dd-a8a7-4c136d36c5b3)  
-> *Figure 8: Jeep Gladiator shifting gears to 4L. Image by Mariah, taken in Utah.*
+> *Figure 9: Jeep Gladiator shifting gears to 4L. Image by Mariah, taken in Utah.*
 
 > *Shift from `4H` to `4L` while rolling slowly (2–5 mph), with the transmission in Neutral.*
 
@@ -359,12 +362,15 @@ Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
 - This activates optimized settings for throttle, traction, and shifting
     
 > ![Pressing the Off-road Button](https://github.com/user-attachments/assets/e633aa10-7a06-44cc-b9a3-33644b1d356b)  
-> *Figure 9: Pointing to the Off-road button. Image by Mariah, taken in Utah*  
+> *Figure 10: Pointing to the Off-road button. Image by Mariah, taken in Utah*  
 
 ### **4. Confirm Activation**
 - Look for the **Off-Road+ icon** on your dash display
 - You may also see other features activate, like sway bar disconnect (Rubicon trims)
-
+    
+> ![Dash Display](https://github.com/user-attachments/assets/96ea0503-9be9-45f1-bf8e-44dcb14e690b)  
+> *Figure 11: Dashboard display of Off-road mode turned on. Image by Mariah, taken in Utah*   
+  
 ---
 
 ## Optional: Use Built-In Trail Features
@@ -377,7 +383,7 @@ Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
 - Increases wheel articulation over rocky or uneven terrain
     
 > ![Locker and Sway Bar](https://github.com/user-attachments/assets/347074b4-bfe5-4287-8f29-168ea076c9b9)   
-> *Figure 10: Locker button and sway bar disconnect button. Image by Mariah, taken in Utah*
+> *Figure 12: Locker button and sway bar disconnect button. Image by Mariah, taken in Utah*
   
 ---
 
@@ -408,7 +414,7 @@ Stay calm. Assess the situation before doing anything.
 5. **Air down your tires further** if not already at low PSI (as low as 12–15 PSI in soft sand).
     
 > ![Jeep Stuck](https://github.com/user-attachments/assets/02f5e684-a1e9-42da-8ff4-7d470a386042)     
-> *Figure 11: Jeep stuck in thick, icy mud. Image by Mariah, taken in the Western Slopes of Colorado.*
+> *Figure 13: Jeep stuck in thick, icy mud. Image by Mariah, taken in the Western Slopes of Colorado.*
  
 ---
 
@@ -424,7 +430,7 @@ If you're using a winch, it’s critical to do it safely, for yourself and your 
 - [ ] Keep bystanders at a safe distance
         
 > ![Example Winch](https://github.com/user-attachments/assets/86b8e73e-c1e6-43af-ad02-2e7339e6d191)   
-> *Figure 12: Winch-ready bumper attached to jeep. Image by Mariah, taken in the Western Slopes of Colorado.*  
+> *Figure 14: Winch-ready bumper attached to jeep. Image by Mariah, taken in the Western Slopes of Colorado.*  
 
 ### **Steps for Winch Recovery**
 1. Set your parking brake and put the vehicle in neutral.  
@@ -457,7 +463,7 @@ Even experienced off-roaders can run into unexpected challenges. Be prepared for
 - **Losing the trail or getting lost** – use GPS + paper maps, mark your last known location
   
 > ![Trail GPS](https://github.com/user-attachments/assets/7e9c8bd2-c039-466c-8e39-528ac0db0144)   
-> *Figure 13: Essential safety gear: Garmin GPS System. Image by Mariah, taken in Utah.*  
+> *Figure 15: Essential safety gear: Garmin GPS System. Image by Mariah, taken in Utah.*  
 
 ---
 
@@ -495,7 +501,7 @@ As off-roaders, it’s our job to leave trails better than we found them.
 - ❌ Don’t leave trash, gear, or fire remains behind 
   
 > ![Trail Restoration Area](https://github.com/user-attachments/assets/d5711bd1-ff87-4253-81c0-d9b1a1c1f5a5)   
-> *Figure 14: Trail damage from off-route driving. This takes decades to heal. In areas where this has been more prevalent, "Restoration" signs may be posted. Image by Mariah, taken in Utah.*  
+> *Figure 16: Trail damage from off-route driving. This takes decades to heal. In areas where this has been more prevalent, "Restoration" signs may be posted. Image by Mariah, taken in Utah.*  
   
 ---
 
@@ -630,7 +636,7 @@ Tires take the most abuse off-road. Always be ready for a puncture or sidewall t
 - Tire deflator + pressure gauge combo
   
 > ![Tire Repair Kit](https://github.com/user-attachments/assets/95448866-0e50-4b8c-a38d-81a53b6142e5)     
-> *Figure 15: Jeep Gladiator tire repair Kit. Image by Mariah, taken in the Western Slopes of Colorado.*  
+> *Figure 17: Jeep Gladiator tire repair Kit. Image by Mariah, taken in the Western Slopes of Colorado.*  
 
 ---
 
