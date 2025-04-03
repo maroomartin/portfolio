@@ -806,7 +806,7 @@ A dirt road surface with repeating ridges, which can be rough on suspension and 
 ## References
 
 ### **Vehicle & Product Sources**
-- Jeep® Gladiator Owner's Manual (2020–2024 models)  
+- Jeep Gladiator Owner's Manual (2020–2024 models)  
 - Mopar Off-Road Accessories & Trail Guides  
 - Garmin GPS and OnX Offroad official documentation  
 - Maxtrax Recovery Gear Instructions  
