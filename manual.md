@@ -278,7 +278,7 @@ Rocky terrain demands patience, slow speed, and careful wheel placement.
 - Use a spotter if visibility is limited or obstacles are tight
   
 > ![Rock Crawling Jeep](https://github.com/user-attachments/assets/bf485fd3-e464-4fef-8962-1f8c58c126c4) 
-> *Figure 7: Jeep Gladiator crawling over a rock ledge in low gear. Image by Mariah, taken in Utah*
+> *Figure 7: Jeep Gladiator crawling over a rock ledge in low gear. Image by Mariah, taken in Utah.*
  
 ---
 
@@ -362,14 +362,14 @@ Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
 - This activates optimized settings for throttle, traction, and shifting
     
 > ![Pressing the Off-road Button](https://github.com/user-attachments/assets/e633aa10-7a06-44cc-b9a3-33644b1d356b)  
-> *Figure 10: Pointing to the Off-road button. Image by Mariah, taken in Utah*  
+> *Figure 10: Pointing to the Off-road button. Image by Mariah, taken in Utah.*  
 
 ### **4. Confirm Activation**
 - Look for the **Off-Road+ icon** on your dash display
 - You may also see other features activate, like sway bar disconnect (Rubicon trims)
     
 > ![Dash Display](https://github.com/user-attachments/assets/96ea0503-9be9-45f1-bf8e-44dcb14e690b)  
-> *Figure 11: Dashboard display of Off-road mode turned on. Image by Mariah, taken in Utah*   
+> *Figure 11: Dashboard display of Off-road mode turned on with Jeep in 4L. Image by Mariah, taken in Utah.*   
   
 ---
 
@@ -383,7 +383,7 @@ Make sure your Gladiator is running and in **Park (P)** or **Neutral (N)**.
 - Increases wheel articulation over rocky or uneven terrain
     
 > ![Locker and Sway Bar](https://github.com/user-attachments/assets/347074b4-bfe5-4287-8f29-168ea076c9b9)   
-> *Figure 12: Locker button and sway bar disconnect button. Image by Mariah, taken in Utah*
+> *Figure 12: Locker button and sway bar disconnect button. Image by Mariah, taken in Utah.*
   
 ---
 
