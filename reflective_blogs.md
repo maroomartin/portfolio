@@ -9,7 +9,8 @@
 5. [Reflective Blog 5: Chatbot Analysis](#reflective-blog-5)
 6. [Reflective Blog 6: Chatbot Reflection](#reflective-blog-6)
 7. [Reflective Blog 7: Resume Revision Reflection](#reflective-blog-7)
-       
+8. [Self-Evaluation for ENC4265](#self-evaluation)
+             
 # Wayback Analysis
 
 ## Assignment Rationale 
@@ -269,3 +270,38 @@ The most impactful changes included:
 These changes made my resume feel not only more cohesive and polished but also more strategically positioned for the roles I want to pursue. The process helped me realize that my varied experiences, such as parenting, entrepreneurship, public health, and technical writing, can be woven together into a strong professional narrative when presented clearly and confidently.
 
 What I learned is that how I frame my experience matters just as much as the experience itself. I now understand the importance of tailoring my resume toward specific goals and emphasizing impact rather than simply listing tasks. This exercise boosted both my resume quality and my confidence moving forward in my career.
+
+---  
+# Self-Evaluation
+
+## Assignment Rationale 
+Metacognitive reflection has been demonstrated to promote deep learning and improve students' future self-regulated learning skills. 
+Also, I don't get as much visual feedback from online students as I would in an in-person course, so this helps me better understand if the semester went well for you or if something in my course design is horribly wrong. 
+  
+Reflect on the semester. What have you learned? How have you grown? Are you closer to your career goals than when you started? What are you proud of, and what will you work to avoid in the future? 
+Reflect on the type of work you want to do in the future and how your work this semester will fit your portfolio as scholar and/or practitioner. 
+  
+- What have you learned this semester?  
+- What was this class experience like for you?   
+- How has your work in this course helped to move you closer to your goals?  
+  
+Prompt B: Rather than a traditional essay format, frame this as an "about me" or "self-evaluation" page on your digital portfolio website, focusing, of course, on your most recent graduate course and what you learned in it. Be sure to thoroughly and honestly address the three bulleted questions above. Actually posting this to your digital portfolio site is optional.  
+
+## Assignment
+AI Statement: I used Spell Check for this evaluation. 
+
+### Writing for the Computer Industry | ENC 4265 | Dr. Johnson
+
+This semester was a transformative one for me as both a writer and a future practitioner in the field of technical communication. *Writing for the Computer Industry* not only sharpened my technical skills, but it also clarified my career path.
+  
+Over the past few months, I’ve learned to design clear, task-oriented instructional content with users in mind. From building a chatbot to producing a full-length software manual, each assignment required me to merge creativity, structure, and purpose. I’ve become more confident in minimalist writing strategies, like eliminating unnecessary information and anticipating user questions, skills that I know will carry over into real-world communication work.
+  
+The course structure, particularly its integrative learning and AI-based assignments, challenged me to think critically about how digital tools can enhance or hinder the writing process. I appreciated the emphasis on developing a professional digital portfolio through GitHub. Having one central place to showcase my work has made me more intentional about crafting pieces that reflect my voice, expertise, and evolving identity as a technical communicator. It also expanded my knowledge base of using different platforms and different code for design elements. 
+  
+What I’m most proud of is the manual I created: *How to Off-Road in a Jeep Gladiator in High Desert Terrain*. It’s over 20 pages of fully original content, visual guides, and researched instruction. More than a class assignment, it feels like a tangible piece of work I can present in a professional context, one that reflects my personal interests in sustainability and outdoor adventure, while also demonstrating my ability to write for niche audiences.
+  
+I do feel like this class moved me closer to my career goals. I'm now more confident in my ability to produce high-quality content for tech-driven industries and more prepared to support clients in creating accessible, user-friendly documentation. As I continue building my portfolio, I plan to carry forward the design principles and usability strategies I learned in this course. I also plan to continue developing my visual design and video scripting skills, which I found both challenging and exciting in the procedure video assignment.
+  
+One area I’m excited to grow in is AI integration and development. After the chatbot project, my eyes opened to the potential of conversational tools in user support and engagement. I’d like to deepen my understanding of AI-powered communication and explore how to implement these tools ethically and effectively across different platforms.
+  
+Lastly, I want to express my appreciation for the consistent, constructive feedback throughout the course. Your thoughtful responses, Dr. Johnson, helped me improve with each assignment, and the encouragement to reflect and revise shaped my development this semester. The learning felt personal, supported, and directly connected to the kind of work I hope to do professionally.
